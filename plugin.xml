@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
-        id="cordova-lock-info" version="0.0.1">
+        id="cordova-lock-info" version="0.0.2">
     <name>Locked Info</name>
     <description>Cordova plugin to check locked/unlocked state</description>
     <license>Apache 2.0</license>
